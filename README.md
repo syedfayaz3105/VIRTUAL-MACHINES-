@@ -1,5 +1,8 @@
-# VIRTUAL-MACHINES-
-EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
+# VIRTUAL-MACHINES
+# EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
+
+## NAME : Farhana H
+## REG NO : 212223230057
 
 Aim:
 To move the files between virtual machine.
@@ -57,6 +60,6 @@ Step 2. Setup File Sharing on VirtualBox Guest Machine.
 
 5. You 're done! To access the shared folder from the Guest OS, open Windows Explorer and under the 'Network locations' you should see a new network drive that corresponds to the shared folder on the Host OS.
 
-Result:
+# Result:
 
 Thus the virtual machine files are moved to another VM
